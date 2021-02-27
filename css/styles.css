@@ -1,0 +1,26 @@
+#head {
+	color: #225687;
+	background-color: #98cda9;
+	border: 1px solid black;
+	padding: 10px;
+}
+#titl {
+	float: right;
+	color: #225687;
+	}
+h2 {
+	text-align: center;
+	color: #555555;
+	font-family: serif;
+	}
+h3 {
+	color: #666666;
+	font-family: sans-serif;
+	}
+#content {
+	background-color: #bdca68;
+}
+#box {
+	background-color: #cdab65;
+	padding: 10px;
+}
