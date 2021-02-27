@@ -23,4 +23,5 @@ h3 {
 #box {
 	background-color: #cdab65;
 	padding: 10px;
+	border: 1px solid black;
 }
